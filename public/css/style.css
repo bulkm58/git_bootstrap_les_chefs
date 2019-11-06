@@ -15495,4 +15495,44 @@ readers do not read off random characters that represent icons */
   font-family: "Font Awesome 5 Brands";
 }
 
+.sectionn {
+  background-image: url("../../public/images/main_bg.jpg");
+  background-repeat: none;
+  position: relative;
+}
+
+.bottom {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.left {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.right {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.hello {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+}
+
+.media {
+  align-items: center;
+  border-bottom-style: dotted;
+}
+
+.nav-link {
+  border-bottom: 1px solid grey;
+  border-right: 4px solid red;
+}
+
 /*# sourceMappingURL=style.css.map */

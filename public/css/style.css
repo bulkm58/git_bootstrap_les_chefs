@@ -15499,6 +15499,7 @@ readers do not read off random characters that represent icons */
   background-image: url("../../public/images/main_bg.jpg");
   background-repeat: none;
   position: relative;
+  padding: 75px;
 }
 
 .bottom {
@@ -15533,6 +15534,18 @@ readers do not read off random characters that represent icons */
 .nav-link {
   border-bottom: 1px solid grey;
   border-right: 4px solid red;
+}
+
+.row {
+  padding: 87px;
+}
+
+.hrimg {
+  border-bottom: 1px solid grey;
+}
+
+.meetchef {
+  background-image: url(../../public/images/team_background.jpg);
 }
 
 /*# sourceMappingURL=style.css.map */

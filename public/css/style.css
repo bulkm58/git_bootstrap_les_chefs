@@ -15634,15 +15634,15 @@ readers do not read off random characters that represent icons */
   color: black;
 }
 
-.testimimg {
+.testmimg {
   background-image: url(../../public/images/testimonials_background.jpg);
-  height: 400px;
+  height: 500px;
 }
 
-.femme img {
+.blondasse img {
   border-radius: 50%;
   border: 3px solid white;
-  margin: 15px;
+  margin: 10px;
 }
 
 .textfemme {
@@ -15652,7 +15652,7 @@ readers do not read off random characters that represent icons */
 }
 
 .marginfemme {
-  margin-left: 73px;
+  margin-left: 105px;
 }
 
 /*# sourceMappingURL=style.css.map */

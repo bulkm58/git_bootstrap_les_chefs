@@ -15495,6 +15495,10 @@ readers do not read off random characters that represent icons */
   font-family: "Font Awesome 5 Brands";
 }
 
+body {
+  font-family: "Courgette", cursive;
+}
+
 .navbarinho {
   display: flex;
   flex-direction: row;
@@ -15536,6 +15540,12 @@ readers do not read off random characters that represent icons */
   height: 10px;
   border-radius: 100%;
   border: 3px solid grey;
+}
+
+.dollars {
+  background-color: grey;
+  color: red;
+  padding: 10px;
 }
 
 .sectionn {
